@@ -1,0 +1,20 @@
+E:\my program\c#\a\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+E:\my program\c#\a\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+E:\my program\c#\a\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+E:\my program\c#\a\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+E:\my program\c#\a\Color Picker\Color Picker\obj\Debug\DesktopColorPicker.MagnifyingGlass.resources
+E:\my program\c#\a\Color Picker\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+E:\my program\c#\a\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.Cache
+E:\my program\c#\a\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+E:\my program\c#\a\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+E:\my program\c#\a\Color Picker\Color Picker\obj\Debug\Color Picker.csprojResolveAssemblyReference.cache
+E:\My Program\c#\Color Picker\Color Picker\bin\Debug\Color Picker.exe.config
+E:\My Program\c#\Color Picker\Color Picker\obj\Debug\Color Picker.exe
+E:\My Program\c#\Color Picker\Color Picker\obj\Debug\Color Picker.pdb
+E:\My Program\c#\Color Picker\Color Picker\bin\Debug\Color Picker.exe
+E:\My Program\c#\Color Picker\Color Picker\bin\Debug\Color Picker.pdb
+E:\My Program\c#\Color Picker\Color Picker\obj\Debug\Color Picker.csprojResolveAssemblyReference.cache
+E:\My Program\c#\Color Picker\Color Picker\obj\Debug\Color_Picker.Form1.resources
+E:\My Program\c#\Color Picker\Color Picker\obj\Debug\DesktopColorPicker.MagnifyingGlass.resources
+E:\My Program\c#\Color Picker\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+E:\My Program\c#\Color Picker\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.Cache
